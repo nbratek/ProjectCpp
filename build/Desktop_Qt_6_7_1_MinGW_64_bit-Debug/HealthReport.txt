@@ -1,0 +1,18 @@
+Raport zdrowotny
+-------------------------
+Dane użytkownika:
+Imię: Anna
+Wiek: 45
+Płeć: Female
+-------------------------
+Aktualne wartości:
+Tętno: 80 bpm
+Ciśnienie krwi: 100 mmHg
+Poziom cukru: 90 mg/dl
+
+Średnie wartości:
+Średnie tętno: 80.6829 bpm
+Średnie ciśnienie krwi: 122.732 mmHg
+Średni poziom cukru: 95.3659 mg/dl
+-------------------------
+Generowany: 2024-06-20
